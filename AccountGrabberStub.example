@@ -1,0 +1,25 @@
+def detect_status(msg, content, platform, email):
+        if msg in content:
+                print(platform + ": " + email + " REGISTERED.")
+        else:
+                print(platform + ": " + email + " NOT REGISTERED.")
+
+def bareHTTPexample(email):
+        session = requests.Session()
+        response = session.get('https://vulnerable/init_function')
+        headers = {'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8', 'X-CSRF-Token': response.cookies.get('csrf_token')}
+        safe_string = urllib.parse.quote_plus(email)
+        data_body = "email=" + safe_string
+        x = session.post('https://vulnerable/validate_function', headers=headers, data=data_body)
+        detect_status('<message shown for a registered e-mail>', str(x.content), 'bareHTTPexamplePlattform', email)
+
+def seleniumExample(email):
+        driver.get("https://vulnerable/init_function")
+        time.sleep(1)
+        driver.find_element(By.XPATH, "//*[@name='email']").send_keys(email)
+        time.sleep(1)
+        driver.find_element(By.XPATH, "//*[@name='password']").send_keys(email)
+        time.sleep(1)
+        driver.find_element(By.XPATH, "//button[@type='submit']").click()
+        time.sleep(1)
+        detect_not_status('<message shown for an unknown e-mail>', driver.page_source, 'seleniumExamplePlattform', email)

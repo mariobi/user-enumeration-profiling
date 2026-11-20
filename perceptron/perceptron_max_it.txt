@@ -1,0 +1,343 @@
+Perceptron: 
+75.45 %
+max_iter: 1
+Precision: 0.6240601503759399
+Recall: 0.6434108527131783
+f1 score: 0.6335877862595419
+
+Perceptron: 
+72.92 %
+max_iter: 2
+Precision: 0.6428571428571429
+Recall: 0.627906976744186
+f1 score: 0.6352941176470588
+
+Perceptron: 
+80.51 %
+max_iter: 3
+Precision: 0.6370370370370371
+Recall: 0.6666666666666666
+f1 score: 0.6515151515151515
+
+Perceptron: 
+79.78 %
+max_iter: 4
+Precision: 0.625
+Recall: 0.6201550387596899
+f1 score: 0.622568093385214
+
+Perceptron: 
+83.03 %
+max_iter: 5
+Precision: 0.5944055944055944
+Recall: 0.6589147286821705
+f1 score: 0.6249999999999999
+
+Perceptron: 
+80.51 %
+max_iter: 6
+Precision: 0.6015037593984962
+Recall: 0.6201550387596899
+f1 score: 0.6106870229007634
+
+Perceptron: 
+81.23 %
+max_iter: 7
+Precision: 0.6119402985074627
+Recall: 0.6356589147286822
+f1 score: 0.623574144486692
+
+Perceptron: 
+80.14 %
+max_iter: 8
+Precision: 0.6343283582089553
+Recall: 0.6589147286821705
+f1 score: 0.6463878326996197
+
+Perceptron: 
+80.87 %
+max_iter: 9
+Precision: 0.6319444444444444
+Recall: 0.7054263565891473
+f1 score: 0.6666666666666666
+
+Perceptron: 
+83.75 %
+max_iter: 10
+Precision: 0.6115107913669064
+Recall: 0.6589147286821705
+f1 score: 0.6343283582089552
+
+Perceptron: 
+81.23 %
+max_iter: 11
+Precision: 0.6402877697841727
+Recall: 0.689922480620155
+f1 score: 0.664179104477612
+
+Perceptron: 
+78.7 %
+max_iter: 12
+Precision: 0.6287878787878788
+Recall: 0.6434108527131783
+f1 score: 0.6360153256704981
+
+Perceptron: 
+78.7 %
+max_iter: 13
+Precision: 0.6370370370370371
+Recall: 0.6666666666666666
+f1 score: 0.6515151515151515
+
+Perceptron: 
+80.14 %
+max_iter: 14
+Precision: 0.6453900709219859
+Recall: 0.7054263565891473
+f1 score: 0.674074074074074
+
+Perceptron: 
+83.03 %
+max_iter: 15
+Precision: 0.6466165413533834
+Recall: 0.6666666666666666
+f1 score: 0.6564885496183206
+
+Perceptron: 
+81.59 %
+max_iter: 16
+Precision: 0.647887323943662
+Recall: 0.7131782945736435
+f1 score: 0.6789667896678968
+
+Perceptron: 
+81.23 %
+max_iter: 17
+Precision: 0.6382978723404256
+Recall: 0.6976744186046512
+f1 score: 0.6666666666666666
+
+Perceptron: 
+81.23 %
+max_iter: 18
+Precision: 0.6214285714285714
+Recall: 0.6744186046511628
+f1 score: 0.6468401486988848
+
+Perceptron: 
+81.23 %
+max_iter: 19
+Precision: 0.6223776223776224
+Recall: 0.689922480620155
+f1 score: 0.6544117647058824
+
+Perceptron: 
+81.23 %
+max_iter: 20
+Precision: 0.6194029850746269
+Recall: 0.6434108527131783
+f1 score: 0.6311787072243346
+
+Perceptron: 
+81.23 %
+max_iter: 21
+Precision: 0.6142857142857143
+Recall: 0.6666666666666666
+f1 score: 0.6394052044609666
+
+Perceptron: 
+81.23 %
+max_iter: 22
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 23
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 24
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 25
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 26
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 27
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 28
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 29
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 30
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 31
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 32
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 33
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 34
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 35
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 36
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 37
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 38
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 39
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 40
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 41
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 42
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 43
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 44
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 45
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 46
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 47
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 48
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+
+Perceptron: 
+81.23 %
+max_iter: 49
+Precision: 0.6071428571428571
+Recall: 0.6589147286821705
+f1 score: 0.6319702602230484
+

@@ -1,0 +1,26 @@
+>=25 pfs:
+under mean: 22
+over mean: 11 
+
+>=20 pfs:
+under mean: 42
+over mean: 34
+
+<=10 pfs:
+under mean: 80
+over mean: 96
+
+<=8 pfs: 
+under mean: 65
+over mean: 79
+
+<=6 pfs:
+under mean: 48
+over mean: 59
+
+
+<=12.49
+under mean: 100
+over mean: 112
+
+>12.49

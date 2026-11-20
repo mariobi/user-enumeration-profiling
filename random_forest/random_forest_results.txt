@@ -1,0 +1,18 @@
+######### Testing Accuracy Results Random Forest  #########
+              precision    recall  f1-score   support
+
+           0       0.75      0.69      0.72        77
+           1       0.50      0.57      0.53        42
+
+    accuracy                           0.65       119
+   macro avg       0.62      0.63      0.62       119
+weighted avg       0.66      0.65      0.65       119
+
+[[53 24]
+ [18 24]]
+avg precision_0: 0.7531351886049936
+avg recall_0: 0.7032467532467532
+avg f1_0: 0.7273156830299687
+avg precision_1: 0.5149200869061779
+avg recall_1: 0.5773809523809522
+avg f1_1: 0.5443287299467072

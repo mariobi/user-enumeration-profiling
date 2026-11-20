@@ -1,0 +1,21 @@
+0.12280701754385964
+male
+males: 119
+males2: 48
+success: 69.5906432748538
+succress2: 71.9298245614035
+female
+females: 123
+females2: 52
+success: 71.9298245614035
+success2: 69.5906432748538
+adjustment factor: 0.45
+male
+males: 114
+males2: 54
+success: 66.66666666666666
+succress2: 68.42105263157895
+female
+success: 68.42105263157895
+success2: 66.66666666666666
+adjustment factor: 0.45

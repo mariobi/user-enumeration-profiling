@@ -1,0 +1,13 @@
+Length: 112, dtype: object
+-------------FITTING MODELS-------------
+[Parallel(n_jobs=-1)]: Using backend LokyBackend with 4 concurrent workers.
+[Parallel(n_jobs=-1)]: Done   2 out of   8 | elapsed:    3.4s remaining:   10.1s
+[Parallel(n_jobs=-1)]: Done   3 out of   8 | elapsed:    3.4s remaining:    5.6s
+[Parallel(n_jobs=-1)]: Done   4 out of   8 | elapsed:    3.4s remaining:    3.4s
+[Parallel(n_jobs=-1)]: Done   5 out of   8 | elapsed:    3.4s remaining:    2.1s
+[Parallel(n_jobs=-1)]: Done   6 out of   8 | elapsed:    3.4s remaining:    1.1s
+[Parallel(n_jobs=-1)]: Done   8 out of   8 | elapsed:    3.4s finished
+-------------SCORING MODELS-------------
+[Parallel(n_jobs=-1)]: Using backend LokyBackend with 4 concurrent workers.
+[Parallel(n_jobs=-1)]: Done   8 out of   8 | elapsed:    0.0s finished
+SGDClassifier(alpha=1.0, loss='log_loss', n_jobs=-1) 0.7291280148423005
